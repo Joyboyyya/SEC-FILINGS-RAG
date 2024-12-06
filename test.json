@@ -1,0 +1,22 @@
+{
+    "stock": [
+        "equity",
+        "shares",
+        "dividend"
+    ],
+    "forex": [
+        "pip",
+        "spread",
+        "leverage"
+    ],
+    "crypto": [
+        "blockchain",
+        "Bitcoin",
+        "Ethereum"
+    ],
+    "other": [
+        "inflation",
+        "economy",
+        "policy"
+    ]
+}
